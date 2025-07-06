@@ -106,7 +106,7 @@ weights/
 python demo_video_matting.py --input-path 'videos/hair.mp4'
 ```
 
-ps:The mode is under research and currently only supports salient video matting.
+ps:This mode is under research and currently only supports salient video matting.
 
 
 ## Evaluate
