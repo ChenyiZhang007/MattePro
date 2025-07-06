@@ -82,6 +82,16 @@ Click the roll mouse button on unknown region
 Click the right mouse button on background region  
 ### Video Matting
 
+
+
+https://github.com/user-attachments/assets/3679399f-b29d-4dd8-9c9b-002704b14491
+
+
+
+https://github.com/user-attachments/assets/0aeb14bd-86c5-4467-bc30-b8b6b82f7ceb
+
+
+
 **Step 1.**   
 Download the weight of [BirefNet](https://drive.google.com/file/d/1f7L0Pb1Y3RkOMbqLCW_zO31dik9AiUFa/view), and place them in the weights directory.   
 ```
