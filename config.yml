@@ -1,0 +1,25 @@
+INTERACTIVE_MODELS_PATH: "./"
+EXPS_PATH: "./experiments"
+
+## Train datasets
+
+# Segmentation Dataset
+DUTS_PATH: "/opt/data/private/zcy/datasets/DUTS-TR"
+DIS_PATH: "/opt/data/private/zcy/datasets/HQSEG/DIS5K/DIS-TR"
+
+# Matting Dataset
+DIM_PATH: "/opt/data/private/zcy/datasets/Combined_Dataset/Training_set/all"
+D646_PATH: "/opt/data/private/zcy/datasets/Distinctions-646/Train"
+AM2K_PATH: "/opt/data/private/zcy/datasets/AM-2K/train"
+T460_PATH: "/opt/data/private/zcy/datasets/Transparent-460/Train_low"
+P3M_PATH: "/opt/data/private/zcy/datasets/P3M-10k/train"
+
+# Beckground Images
+BG_PATH: "/opt/data/private/zcy/datasets/COCO2014/train2014"
+
+
+## Evaluation datasets
+C1K_PATH: "/data1/zhangchenyi_data/datasets/Composition-1k-testset"
+P3M500_PATH: "/data1/zhangchenyi_data/datasets/P3M-10k/validation/P3M-500-NP"
+AIM500_PATH: "/data1/zhangchenyi_data/datasets/AIM-500"
+

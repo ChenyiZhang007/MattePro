@@ -1,0 +1,18 @@
+import torch
+test_x = torch.randn((1, 3, 4, 2))
+print("origin test_x:")
+print(test_x)
+test_policy = torch.randint(low = 0, high = 2, size=(1, 12, 1))
+print("policy:")
+print(test_policy)
+
+selected_indices = test_policy.squeeze(-1).bool()
+selected_x = test_x.reshape(1, 12, 2)[selected_indices].unsqueeze(0)
+print("selected_x:")
+print(selected_x)
+new_x = torch.randn_like(selected_x)
+print("new_x:")
+print(new_x)
+test_x.masked_scatter_(selected_indices.reshape(1, 3, 4, 1), new_x)
+print("new_test_x")
+print(test_x)

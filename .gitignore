@@ -1,0 +1,15 @@
+.vscode/
+__pycache__/
+mp4/
+output_videos/
+detectron2/
+experiments/
+checkpoints/
+weights/
+pretrained/
+/*result*/
+*.out
+output.mp4
+evaluate_ckpt.py
+inference*.py
+output.mp4
