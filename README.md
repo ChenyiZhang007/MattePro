@@ -179,6 +179,6 @@ If you have any questions, please feel free to contact me via chenyi22@bjtu.edu.
 The code is released under the MIT License. It is a short, permissive software license. Basically, you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source. 
 
 ## Acknowledgement
-Our project is developed based on [SEMatte](https://github.com/XiaRho/SEMat), [MEMatte](https://github.com/linyiheng123/MEMatte), [SimpleClick](https://github.com/uncbiag/SimpleClick?tab=readme-ov-file), [BiRefNet](https://github.com/ZhengPeng7/BiRefNet). Thanks for their wonderful work!
+Our project is developed based on [SEMatte](https://github.com/XiaRho/SEMat), [MEMatte](https://github.com/linyiheng123/MEMatte), [SimpleClick](https://github.com/uncbiag/SimpleClick?tab=readme-ov-file), [BiRefNet](https://github.com/ZhengPeng7/BiRefNet). Thanks for their wonderful work!  
 If you have any questions, feel free to contact us through zchenyi007@gmail.com and 23120298@bjtu.edu.cn
 <div align="center">
