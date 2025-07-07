@@ -135,7 +135,7 @@ Segmentation Dataset:   [DUTS](https://saliencydetection.net/duts/), [DIS5K](htt
 
 Matting Dataset:   [DIM](https://sites.google.com/view/deepimagematting), [Distinctions-646](https://github.com/yuhaoliu7456/CVPR2020-HAttMatting?tab=readme-ov-file),  [AM-2K](https://github.com/JizhiziLi/GFM),  [P3M-10k](https://github.com/JizhiziLi/P3M),  [Transparent-460](https://github.com/AceCHQ/TransMatting)
 
-Background Images: [COCO2017](https://cocodataset.org/#home)
+Background Images: [COCO2017](https://cocodataset.org/#home) (training images)
 
 And then configure the path in in [config.yml](https://github.com/ChenyiZhang007/MattePro/blob/main/config.yml)
 
@@ -180,3 +180,4 @@ The code is released under the MIT License. It is a short, permissive software l
 
 ## Acknowledgement
 Our project is developed based on [SEMatte](https://github.com/XiaRho/SEMat), [MEMatte](https://github.com/linyiheng123/MEMatte), [SimpleClick](https://github.com/uncbiag/SimpleClick?tab=readme-ov-file), [BiRefNet](https://github.com/ZhengPeng7/BiRefNet). Thanks for their wonderful work!<div align="center">
+If you have any questions, feel free to contact us through zchenyi007@gmail.com and 23120298@bjtu.edu.cn
